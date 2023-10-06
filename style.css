@@ -131,6 +131,7 @@ gap: 20px;
   height: 38px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   border: none;
+  cursor: pointer;
 }
 
 .textandbutton {
@@ -141,12 +142,6 @@ gap: 20px;
   /* width: 80px; */
 }
 
-.stephenkingemail {
-  padding-right: 190px;
-  /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
-  color: rgb(119, 119, 119);
-  font-size: 14.5px;
-}
 
 .stephenkingname {
   padding-right: 280px;
@@ -271,7 +266,19 @@ width: 41px;
 height: 40px;
 }
 
+.nameholder {
+  padding: 13px;
+  border-radius: 10px;
+  background-color: white;
+  border: solid 1px;
+  border-color: rgb(119, 119, 119);
+  margin-top: -8px;
+}
 
+.btn {
+  padding-top: 190px;
+  padding-left: 290px;
+}
 
 
 
